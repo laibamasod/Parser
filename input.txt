@@ -1,0 +1,11 @@
+function func(x, y) {
+if (== x y) {
+  let z = (+ x y);
+  return z;
+  
+} else {
+ let z = (- x y);
+  return z;
+  
+}
+}
